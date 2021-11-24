@@ -1,0 +1,2 @@
+# prediction-of-employee-attrition
+A focus on attrition drivers for top talent is particularly important for many organizations In these cases, there is often more latitude for interventions employees in these positions often have unique experience, are highly skilled, or are hard to replace for other reasons Human Resources in organizations always try understanding what is most important to their employees, with the goal of making improvements to increase employee engagement, productivity, and reduce unwanted attrition
